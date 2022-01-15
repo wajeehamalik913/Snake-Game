@@ -1,4 +1,4 @@
-"# Snake-Game" 
+# Snake-Game
 
 You can install libraries either from the Ubuntu software center or from command line.
 To install libraries:
